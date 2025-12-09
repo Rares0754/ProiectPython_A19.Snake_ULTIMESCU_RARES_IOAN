@@ -1,43 +1,20 @@
-# Snake Game – Project A
 
-## Description
-Python implementation of the classic Snake game.
-This project follows the official Project A requirements.
+Product Price Crawler
+Phase 1 - Basic product price retrieval
 
-## Project Requirements Checklist
+Develop a Python script that takes a list of products, searches compari.ro, and collects price information.
 
-### Phase 1 – Core logic & board
-- [ ] Dynamic board loaded from JSON
-- [ ] Snake initialization and movement
-- [ ] Food spawning
-- [ ] Obstacles support
-- [ ] Collision detection (walls, obstacles, self)
+  [-] Input list of product names
+  [-] Fetch product listings from compari.ro
+  [-] Extract product name, lowest price, highest price, and number of offers
 
-### Phase 2 – GUI & animation
-- [ ] Visual representation of board
-- [ ] Snake animation
-- [ ] Food and obstacles rendering
+Functional result: Script outputs accurate price information for each product in a structured format.
+Phase 2 - JSON export and structured storage
 
-### Phase 3 – Game round & score
-- [ ] Score tracking
-- [ ] End of game detection
-- [ ] Score display
+Enhance the script to save the collected product data in a JSON file for easy use and further processing.
 
-### Phase 4 – Multiple rounds
-- [ ] New game option after game over
-- [ ] Session high score
+  [-] Convert collected product data into JSON format
+  [-] Save JSON to a file with proper structure
+  [-] Ensure all products have complete information recorded
 
-### Phase 5 – Persistence & config
-- [ ] Persistent high score storage
-- [ ] Board and obstacles fully driven by JSON
-
-### Phase 6 – Settings & polish
-- [ ] Game settings (speed, size, etc.)
-- [ ] UI polish and messages
-- [ ] Undo last move (optional)
-
-## Git Phases
-Each phase is implemented in a separate, functional commit.
-
-## Documentation
-The project follows PEP8 and includes docstrings for all modules, classes, and functions.
+Functional result: Script generates a JSON file containing all products with their price data and offer counts.
