@@ -1,0 +1,38 @@
+[
+    {
+        "query": "Apple iPhone 15 128GB",
+        "name": "",
+        "min_price": 20.0,
+        "max_price": 4579.0,
+        "offers": 162,
+        "url": "https://www.compari.ro/telefoane-mobile-c3277/apple/iphone-15-128gb-p996936880/?utm_source=google&utm_medium=organic&utm_campaign=dma#hb1",
+        "currency": "RON"
+    },
+    {
+        "query": "Samsung Galaxy S24",
+        "name": "",
+        "min_price": 24.0,
+        "max_price": 5525.55,
+        "offers": 101,
+        "url": "https://www.compari.ro/telefoane-mobile-c3277/samsung/galaxy-s24-5g-128gb-8gb-ram-dual-sm-s921b-p1038739090/?utm_source=google&utm_medium=organic&utm_campaign=dma#hb1",
+        "currency": "RON"
+    },
+    {
+        "query": "Ariston Clas One WiFi 24 kW (3302123)",
+        "name": "",
+        "min_price": 18.3,
+        "max_price": 20253910.0,
+        "offers": 38,
+        "url": "https://www.compari.ro/centrale-termice-si-sobe-c4026/ariston/clas-one-wifi-24-kw-3302123-p845842803/",
+        "currency": "RON"
+    },
+    {
+        "query": "Lenovo Legion T5 30AGB10 90YJ0008RM",
+        "name": "",
+        "min_price": 20.0,
+        "max_price": 14304.54,
+        "offers": 7,
+        "url": "https://www.compari.ro/sisteme-desktop-c3083/lenovo/legion-t5-30agb10-90yj0008rm-p1232755258/",
+        "currency": "RON"
+    }
+]
